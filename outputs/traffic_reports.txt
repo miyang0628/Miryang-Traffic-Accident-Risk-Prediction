@@ -1,0 +1,229 @@
+=================================================================
+  MIRYANG TRAFFIC RISK REPORT
+  District  : 삼문동
+  Period    : 2021-07
+  Risk Index: 192.40  |  Alert: High-Risk Warning
+=================================================================
+
+[ EXECUTIVE SUMMARY ]
+The traffic accident risk index for 삼문동 stands at 192.40, categorizing it as a high-risk area. The primary drivers of this elevated risk include dry road surface incidents and unsafe driving violations, necessitating immediate policy intervention to mitigate these factors.
+
+[ RISK FACTOR ANALYSIS ]
+  Primary Risks:
+  The top three risk factors contributing to the high accident rate are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Pedestrian Protection Violations'. These factors indicate a pressing need for enhanced enforcement of traffic regulations and public awareness campaigns to promote safe driving behaviors.
+  Contributing Conditions:
+  Environmental conditions, such as cloudy weather and wet/humid road surfaces, further exacerbate the risk of accidents, highlighting the need for targeted interventions during adverse weather.
+
+[ POLICY RECOMMENDATIONS ]
+  [1] Implement a targeted enforcement campaign focusing on unsafe driving violations.
+      Target   : Unsafe Driving Violations
+      Rationale: AI analysis indicates that unsafe driving is a primary risk driver; enhancing enforcement can directly reduce these incidents.
+      Timeline : Short-term (1-3 months)
+
+  [2] Launch a public awareness campaign on the dangers of driving on dry and wet road surfaces.
+      Target   : Dry Road Surface Incidents and Wet/Humid Road Surface Incidents
+      Rationale: Reducing the frequency of incidents on dry and wet surfaces is critical, as indicated by the DiCE analysis; public education can influence driver behavior.
+      Timeline : Mid-term (3-12 months)
+
+  [3] Enhance pedestrian protection measures at high-risk intersections.
+      Target   : Pedestrian Protection Violations
+      Rationale: The presence of pedestrian protection violations contributes significantly to the risk index; improving safety measures can reduce these violations.
+      Timeline : Long-term (1+ year)
+
+[ COUNTERFACTUAL INSIGHT ]
+To transition to a low-risk classification, the district must focus on reducing the frequency of dry road surface incidents, wet/humid road surface incidents, and intersection incidents. Specifically, a reduction of 12, 6, and 3 incidents respectively would significantly lower the risk index.
+
+[ MONITORING KPIs ]
+  • KPI 1: Reduce dry road surface incidents by 20% within 6 months.
+  • KPI 2: Decrease unsafe driving violations by 15% in the next 3 months.
+  • KPI 3: Increase pedestrian safety compliance rates by 25% within 12 months.
+
+[ ALERT JUSTIFICATION ]
+The classification of 삼문동 as a high-risk district is justified due to its significantly elevated risk index and the presence of multiple high-impact risk factors. This classification is not an over-warning but rather a necessary alert to prompt immediate action to safeguard public safety.
+
+  Generated: 2026-03-31 12:03:01  |  Model: gpt-4o-mini
+=================================================================
+
+=================================================================
+  MIRYANG TRAFFIC RISK REPORT
+  District  : 내이동
+  Period    : 2021-05
+  Risk Index: 159.27  |  Alert: High-Risk Warning
+=================================================================
+
+[ EXECUTIVE SUMMARY ]
+The traffic accident risk index for 내이동 (Miryang-si) stands at 159.27, indicating a high-risk environment for vehicular incidents. The primary drivers of this elevated risk include dry road surface incidents, unsafe driving violations, and pedestrian protection violations, necessitating immediate intervention to enhance road safety.
+
+[ RISK FACTOR ANALYSIS ]
+  Primary Risks:
+  The most significant risk factors include 'Dry Road Surface Incidents', which contribute to unsafe driving conditions, 'Unsafe Driving Violations', highlighting behavioral issues among drivers, and 'Pedestrian Protection Violations', indicating a lack of adherence to pedestrian safety protocols. Addressing these factors is crucial for reducing overall accident rates.
+  Contributing Conditions:
+  Environmental conditions such as cloudy and clear weather incidents exacerbate the risk, suggesting that driver behavior may be influenced by weather patterns, necessitating targeted awareness campaigns.
+
+[ POLICY RECOMMENDATIONS ]
+  [1] Implement a targeted enforcement campaign against unsafe driving violations
+      Target   : Unsafe Driving Violations
+      Rationale: Given the high SHAP value associated with unsafe driving violations, enhancing enforcement can directly mitigate this risk factor, as indicated by the AI model outputs.
+      Timeline : Short-term (1-3 months)
+
+  [2] Launch a public awareness campaign focused on pedestrian safety
+      Target   : Pedestrian Protection Violations
+      Rationale: The significant contribution of pedestrian protection violations to the risk index necessitates a proactive approach to educate drivers and pedestrians alike, as supported by the risk analysis.
+      Timeline : Mid-term (3-12 months)
+
+  [3] Enhance road signage and visibility during adverse weather conditions
+      Target   : Cloudy and Clear Weather Incidents
+      Rationale: Improving road signage can help mitigate risks associated with environmental factors, as highlighted in the analysis of contributing conditions.
+      Timeline : Long-term (1+ year)
+
+[ COUNTERFACTUAL INSIGHT ]
+To shift the district to a low-risk classification, a reduction in 'Dry Road Surface Incidents' by 12 occurrences, 'Wet/Humid Road Surface Incidents' by 6 occurrences, and 'Intersection Incidents' by 3 occurrences is necessary. These changes would significantly lower the risk index and enhance overall traffic safety.
+
+[ MONITORING KPIs ]
+  • KPI 1: Reduce unsafe driving violations by 25% within 6 months
+  • KPI 2: Increase pedestrian safety compliance rates by 30% within 12 months
+  • KPI 3: Decrease dry road surface incidents by 20% within 6 months
+
+[ ALERT JUSTIFICATION ]
+The classification of 내이동 as a HIGH-risk district is justified by the elevated risk index and the significant presence of primary risk factors. Unlike over-warnings, the data-driven insights confirm a genuine need for immediate action to prevent potential accidents.
+
+  Generated: 2026-03-31 12:03:18  |  Model: gpt-4o-mini
+=================================================================
+
+=================================================================
+  MIRYANG TRAFFIC RISK REPORT
+  District  : 상남면
+  Period    : 2022-08
+  Risk Index: 137.97  |  Alert: High-Risk Warning
+=================================================================
+
+[ EXECUTIVE SUMMARY ]
+The traffic accident risk index for 상남면 is currently at 137.97, indicating a high-risk level that necessitates immediate attention. The primary risk drivers include incidents on dry and wet road surfaces, as well as intersection-related accidents, highlighting the urgent need for targeted enforcement and behavioral interventions.
+
+[ RISK FACTOR ANALYSIS ]
+  Primary Risks:
+  The top three risk factors contributing to the elevated accident risk are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Intersection Incidents'. These factors are operationally significant as they suggest a need for enhanced enforcement of traffic regulations and driver education programs.
+  Contributing Conditions:
+  Environmental conditions, such as cloudy weather, further amplify the risk of accidents, indicating that weather-related awareness campaigns may be beneficial.
+
+[ POLICY RECOMMENDATIONS ]
+  [1] Implement targeted enforcement of traffic regulations
+      Target   : Unsafe Driving Violations
+      Rationale: Reducing unsafe driving behaviors is critical, as they are a primary risk driver; targeted enforcement can effectively lower violation rates.
+      Timeline : Short-term (1-3 months)
+
+  [2] Enhance public awareness campaigns on safe driving practices
+      Target   : Dry Road Surface Incidents
+      Rationale: Educational initiatives can significantly reduce incidents on dry roads, as indicated by the SHAP analysis that highlights their contribution to accident risk.
+      Timeline : Mid-term (3-12 months)
+
+  [3] Conduct intersection safety audits and improvements
+      Target   : Intersection Incidents
+      Rationale: Addressing the high frequency of intersection incidents through structural improvements can mitigate risks, as evidenced by the counterfactual analysis.
+      Timeline : Long-term (1+ year)
+
+[ COUNTERFACTUAL INSIGHT ]
+To shift the district to a low-risk classification, it is essential to reduce the frequency of 'Dry Road Surface Incidents' by 12, 'Wet/Humid Road Surface Incidents' by 6, and 'Intersection Incidents' by 3. Implementing these changes can lead to a significant decrease in the overall risk index.
+
+[ MONITORING KPIs ]
+  • KPI 1: Reduce 'Dry Road Surface Incidents' by 20% within 6 months.
+  • KPI 2: Decrease 'Unsafe Driving Violations' by 15% in 3 months.
+  • KPI 3: Lower 'Intersection Incidents' by 10% within 12 months.
+
+[ ALERT JUSTIFICATION ]
+The classification of 상남면 as a high-risk area is justified due to the elevated risk index and the presence of multiple contributing factors. Unlike over-warnings, the data-driven analysis indicates a genuine need for immediate intervention to prevent potential accidents.
+
+  Generated: 2026-03-31 12:03:33  |  Model: gpt-4o-mini
+=================================================================
+
+=================================================================
+  MIRYANG TRAFFIC RISK REPORT
+  District  : 하남읍
+  Period    : 2020-06
+  Risk Index: 113.50  |  Alert: High-Risk Warning
+=================================================================
+
+[ EXECUTIVE SUMMARY ]
+The traffic accident risk index for 하남읍 stands at 113.50, indicating a high-risk environment for vehicular incidents. Key risk drivers include dry road surface incidents and unsafe driving violations, necessitating immediate intervention to mitigate these risks.
+
+[ RISK FACTOR ANALYSIS ]
+  Primary Risks:
+  The top three risk factors contributing to the elevated accident rate are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Clear Weather Incidents'. These factors suggest a critical need for enhanced enforcement of traffic regulations and public awareness campaigns focused on safe driving behaviors.
+  Contributing Conditions:
+  The presence of campgrounds in the vicinity may increase traffic volume and associated risks, particularly during peak recreational periods.
+
+[ POLICY RECOMMENDATIONS ]
+  [1] Implement targeted enforcement of traffic laws
+      Target   : Unsafe Driving Violations
+      Rationale: The SHAP analysis indicates that unsafe driving significantly increases accident risk. Enhanced enforcement can deter such violations.
+      Timeline : Short-term (1-3 months)
+
+  [2] Launch a public awareness campaign on safe driving practices
+      Target   : Dry Road Surface Incidents
+      Rationale: Given the high incidence of accidents on dry roads, educating drivers on safe driving behaviors can reduce these incidents.
+      Timeline : Mid-term (3-12 months)
+
+  [3] Improve road signage and visibility in high-risk areas
+      Target   : Clear Weather Incidents
+      Rationale: Clear weather conditions are associated with a higher frequency of accidents; improving signage can help mitigate this risk.
+      Timeline : Long-term (1+ year)
+
+[ COUNTERFACTUAL INSIGHT ]
+To transition 하남읍 to a low-risk classification, a reduction in 'Dry Road Surface Incidents' by 12 occurrences, 'Wet/Humid Road Surface Incidents' by 6 occurrences, and 'Intersection Incidents' by 3 occurrences is essential. These targeted reductions can significantly lower the risk index.
+
+[ MONITORING KPIs ]
+  • KPI 1: Reduce 'Dry Road Surface Incidents' by 20% in 6 months
+  • KPI 2: Decrease 'Unsafe Driving Violations' by 15% in 6 months
+  • KPI 3: Lower 'Intersection Incidents' by 10% in 12 months
+
+[ ALERT JUSTIFICATION ]
+The classification of 하남읍 as a high-risk district is justified by the elevated risk index and the prevalence of significant risk factors. This classification is based on empirical data rather than over-warning, highlighting the urgent need for targeted interventions.
+
+  Generated: 2026-03-31 12:03:44  |  Model: gpt-4o-mini
+=================================================================
+
+=================================================================
+  MIRYANG TRAFFIC RISK REPORT
+  District  : 삼랑진읍
+  Period    : 2020-06
+  Risk Index: 106.37  |  Alert: High-Risk Warning
+=================================================================
+
+[ EXECUTIVE SUMMARY ]
+The traffic accident risk index for 삼랑진읍 stands at 106.37, categorizing it as a high-risk area. The primary drivers of this elevated risk include incidents on dry and wet road surfaces, as well as intersection-related accidents, necessitating immediate intervention to enhance road safety.
+
+[ RISK FACTOR ANALYSIS ]
+  Primary Risks:
+  The top three risk factors contributing to the high accident rate are Dry Road Surface Incidents, Wet/Humid Road Surface Incidents, and Intersection Incidents. These factors indicate a pressing need for improved enforcement of safe driving practices and enhanced traffic management at critical junctions.
+  Contributing Conditions:
+  The environmental conditions, particularly clear and humid weather, exacerbate the likelihood of accidents, suggesting that weather-related driving behavior needs to be addressed.
+
+[ POLICY RECOMMENDATIONS ]
+  [1] Implement targeted enforcement of safe driving practices
+      Target   : Unsafe Driving Violations
+      Rationale: Reducing Unsafe Driving Violations is crucial, as they significantly contribute to the risk index. Enhanced enforcement can mitigate the frequency of accidents, particularly on dry and wet roads.
+      Timeline : Short-term (1-3 months)
+
+  [2] Enhance traffic management at intersections
+      Target   : Intersection Incidents
+      Rationale: Addressing Intersection Incidents through improved signage, traffic lights, and roundabouts can directly reduce the risk associated with these critical points, as indicated by the SHAP analysis.
+      Timeline : Mid-term (3-12 months)
+
+  [3] Launch a public awareness campaign on driving in varying weather conditions
+      Target   : Clear Weather Incidents and Wet/Humid Road Surface Incidents
+      Rationale: Educating drivers about the risks associated with clear and humid weather can lead to safer driving behaviors, thereby reducing the frequency of related incidents.
+      Timeline : Short-term (1-3 months)
+
+[ COUNTERFACTUAL INSIGHT ]
+To transition to a low-risk classification, a reduction in Dry Road Surface Incidents by 12 occurrences, Wet/Humid Road Surface Incidents by 6, and Intersection Incidents by 3 is essential. Implementing the recommended policies will address these specific areas and significantly lower the risk index.
+
+[ MONITORING KPIs ]
+  • KPI 1: Reduce Dry Road Surface Incidents by 20% within 6 months
+  • KPI 2: Decrease Intersection Incidents by 15% within 12 months
+  • KPI 3: Increase public awareness campaign reach to 70% of local drivers within 3 months
+
+[ ALERT JUSTIFICATION ]
+The classification of 삼랑진읍 as a high-risk district is justified due to its elevated risk index and the presence of multiple contributing factors. This classification is not an over-warning, as the data indicates a clear need for immediate action to prevent potential accidents.
+
+  Generated: 2026-03-31 12:03:59  |  Model: gpt-4o-mini
+=================================================================
