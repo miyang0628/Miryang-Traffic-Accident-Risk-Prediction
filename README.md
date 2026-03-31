@@ -35,33 +35,35 @@ Feature Engineering ──► LightGBM Regressor  ──► SHAP (Why risky?)
 ## Repository Structure
 
 ```
-├── 1_miryang_analysis.py          # Step 1: Modeling + XAI + Comparison + Figures
-├── 2_miryang_report_agent.py      # Step 2: GPT-based policy report agent
-├── .env.example                   # API key template
+├── 1_miryang_analysis.py              # Step 1: Modeling + XAI + Comparison + Figures
+├── 2_miryang_report_agent.py          # Step 2: GPT-based policy report agent
+├── .env.example                       # API key template
+├── README.md
 │
 ├── outputs/
-│   ├── Fig1_Confusion_Matrix.png          # → Paper Fig. 12
-│   ├── Fig2_SHAP_Bar.png                  # → Paper Fig. 8
-│   ├── Fig3_SHAP_Beeswarm.png             # → Paper Fig. 9
-│   ├── Fig4_Lift_Chart.png                # → Paper Fig. 11
-│   ├── Fig5_DiCE_Policy.png               # → Paper Fig. 10
-│   ├── Fig6_Pipeline.png                  # → Paper Fig. 1
-│   ├── Fig7_Regression_Comparison.png     # → Paper Fig. 5
-│   ├── Fig8_Classification_Comparison.png # → Paper Fig. 6
-│   ├── Fig9_CV_AUC_ErrorBar.png           # → Paper Fig. 7
+│   ├── figures/
+│   │   ├── fig1.png
+│   │   ├── fig2.png
+│   │   ├── fig3.png
+│   │   ├── fig4.png
+│   │   ├── fig5.png
+│   │   ├── fig6.png
+│   │   ├── fig7.png
+│   │   ├── fig8.png
+│   │   ├── fig9.png
+│   │   └── fig10.png
 │   │
-│   ├── TableI_Regression_Comparison.csv   # → Paper Table III
-│   ├── TableII_Classification_Comparison.csv # → Paper Table II
-│   ├── TableIII_Lift_Chart.csv            # → Paper Table V
-│   ├── TableIV_Alert_Classification.csv
-│   ├── TableV_DiCE_Policy.csv             # → Paper Table IV
-│   ├── TableVI_LLM_Dataset.csv            # → Paper Table VI
-│   ├── TableVII_Report_Summary.csv        # → Paper Table VII
+│   ├── tables/
+│   │   ├── TableI_Regression_Comparison.csv
+│   │   ├── TableII_Classification_Comparison.csv
+│   │   ├── TableIII_Lift_Chart.csv
+│   │   ├── TableIV_Alert_Classification.csv
+│   │   ├── TableV_DiCE_Policy.csv
+│   │   ├── TableVI_LLM_Dataset.csv
+│   │   └── TableVII_Report_Summary.csv
 │   │
-│   ├── traffic_reports.json               # RAG knowledge base
-│   └── traffic_reports.txt                # Human-readable reports
-│
-└── README.md
+│   ├── traffic_reports.json           # RAG knowledge base
+│   └── traffic_reports.txt            # Human-readable policy reports
 ```
 
 ---
