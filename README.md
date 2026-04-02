@@ -3,7 +3,7 @@
 
 > **Paper:** Predicting Traffic Accident Risk Index in Miryang-si Using Explainable AI and LLM-based Automated Policy Reports  
 > **Journal:**  
-> **Authors:** Yang Munil
+> **Authors:** 
 
 ---
 
