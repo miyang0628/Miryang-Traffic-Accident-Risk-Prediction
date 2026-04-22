@@ -1,0 +1,5 @@
+﻿Metric,Mean,Std,Min,Max
+faithfulness,0.2436,0.0708,0.1579,0.3182
+answer_relevancy,0.9449,0.0067,0.9342,0.9509
+context_recall,0.6,0.1491,0.3333,0.6667
+context_precision,0.2105,0.1859,0.0734,0.5167

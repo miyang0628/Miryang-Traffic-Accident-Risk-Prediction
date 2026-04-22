@@ -1,0 +1,232 @@
+[
+  {
+    "executive_summary": "The traffic accident risk index for 삼문동 stands at 192.40, categorizing it as a high-risk area. The primary drivers of this elevated risk include dry road surface incidents and unsafe driving violations, necessitating immediate policy intervention to mitigate these factors.",
+    "risk_factor_analysis": {
+      "primary_risks": "The top three risk factors contributing to the high accident rate are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Pedestrian Protection Violations'. These factors indicate a pressing need for enhanced enforcement of traffic regulations and public awareness campaigns to promote safe driving behaviors.",
+      "contributing_conditions": "Environmental conditions, such as cloudy weather and wet/humid road surfaces, further exacerbate the risk of accidents, highlighting the need for targeted interventions during adverse weather."
+    },
+    "policy_recommendations": [
+      {
+        "priority": 1,
+        "action": "Implement a targeted enforcement campaign focusing on unsafe driving violations.",
+        "target": "Unsafe Driving Violations",
+        "rationale": "AI analysis indicates that unsafe driving is a primary risk driver; enhancing enforcement can directly reduce these incidents.",
+        "timeline": "Short-term (1-3 months)"
+      },
+      {
+        "priority": 2,
+        "action": "Launch a public awareness campaign on the dangers of driving on dry and wet road surfaces.",
+        "target": "Dry Road Surface Incidents and Wet/Humid Road Surface Incidents",
+        "rationale": "Reducing the frequency of incidents on dry and wet surfaces is critical, as indicated by the DiCE analysis; public education can influence driver behavior.",
+        "timeline": "Mid-term (3-12 months)"
+      },
+      {
+        "priority": 3,
+        "action": "Enhance pedestrian protection measures at high-risk intersections.",
+        "target": "Pedestrian Protection Violations",
+        "rationale": "The presence of pedestrian protection violations contributes significantly to the risk index; improving safety measures can reduce these violations.",
+        "timeline": "Long-term (1+ year)"
+      }
+    ],
+    "counterfactual_insight": "To transition to a low-risk classification, the district must focus on reducing the frequency of dry road surface incidents, wet/humid road surface incidents, and intersection incidents. Specifically, a reduction of 12, 6, and 3 incidents respectively would significantly lower the risk index.",
+    "monitoring_kpis": [
+      "KPI 1: Reduce dry road surface incidents by 20% within 6 months.",
+      "KPI 2: Decrease unsafe driving violations by 15% in the next 3 months.",
+      "KPI 3: Increase pedestrian safety compliance rates by 25% within 12 months."
+    ],
+    "alert_justification": "The classification of 삼문동 as a high-risk district is justified due to its significantly elevated risk index and the presence of multiple high-impact risk factors. This classification is not an over-warning but rather a necessary alert to prompt immediate action to safeguard public safety.",
+    "_meta": {
+      "emd": "삼문동",
+      "year": 2021,
+      "month": 7,
+      "risk_index": 192.4,
+      "alert_type": "High-Risk Warning",
+      "model_used": "gpt-4o-mini",
+      "generated_at": "2026-03-31 12:03:01"
+    }
+  },
+  {
+    "executive_summary": "The traffic accident risk index for 내이동 (Miryang-si) stands at 159.27, indicating a high-risk environment for vehicular incidents. The primary drivers of this elevated risk include dry road surface incidents, unsafe driving violations, and pedestrian protection violations, necessitating immediate intervention to enhance road safety.",
+    "risk_factor_analysis": {
+      "primary_risks": "The most significant risk factors include 'Dry Road Surface Incidents', which contribute to unsafe driving conditions, 'Unsafe Driving Violations', highlighting behavioral issues among drivers, and 'Pedestrian Protection Violations', indicating a lack of adherence to pedestrian safety protocols. Addressing these factors is crucial for reducing overall accident rates.",
+      "contributing_conditions": "Environmental conditions such as cloudy and clear weather incidents exacerbate the risk, suggesting that driver behavior may be influenced by weather patterns, necessitating targeted awareness campaigns."
+    },
+    "policy_recommendations": [
+      {
+        "priority": 1,
+        "action": "Implement a targeted enforcement campaign against unsafe driving violations",
+        "target": "Unsafe Driving Violations",
+        "rationale": "Given the high SHAP value associated with unsafe driving violations, enhancing enforcement can directly mitigate this risk factor, as indicated by the AI model outputs.",
+        "timeline": "Short-term (1-3 months)"
+      },
+      {
+        "priority": 2,
+        "action": "Launch a public awareness campaign focused on pedestrian safety",
+        "target": "Pedestrian Protection Violations",
+        "rationale": "The significant contribution of pedestrian protection violations to the risk index necessitates a proactive approach to educate drivers and pedestrians alike, as supported by the risk analysis.",
+        "timeline": "Mid-term (3-12 months)"
+      },
+      {
+        "priority": 3,
+        "action": "Enhance road signage and visibility during adverse weather conditions",
+        "target": "Cloudy and Clear Weather Incidents",
+        "rationale": "Improving road signage can help mitigate risks associated with environmental factors, as highlighted in the analysis of contributing conditions.",
+        "timeline": "Long-term (1+ year)"
+      }
+    ],
+    "counterfactual_insight": "To shift the district to a low-risk classification, a reduction in 'Dry Road Surface Incidents' by 12 occurrences, 'Wet/Humid Road Surface Incidents' by 6 occurrences, and 'Intersection Incidents' by 3 occurrences is necessary. These changes would significantly lower the risk index and enhance overall traffic safety.",
+    "monitoring_kpis": [
+      "KPI 1: Reduce unsafe driving violations by 25% within 6 months",
+      "KPI 2: Increase pedestrian safety compliance rates by 30% within 12 months",
+      "KPI 3: Decrease dry road surface incidents by 20% within 6 months"
+    ],
+    "alert_justification": "The classification of 내이동 as a HIGH-risk district is justified by the elevated risk index and the significant presence of primary risk factors. Unlike over-warnings, the data-driven insights confirm a genuine need for immediate action to prevent potential accidents.",
+    "_meta": {
+      "emd": "내이동",
+      "year": 2021,
+      "month": 5,
+      "risk_index": 159.27,
+      "alert_type": "High-Risk Warning",
+      "model_used": "gpt-4o-mini",
+      "generated_at": "2026-03-31 12:03:18"
+    }
+  },
+  {
+    "executive_summary": "The traffic accident risk index for 상남면 is currently at 137.97, indicating a high-risk level that necessitates immediate attention. The primary risk drivers include incidents on dry and wet road surfaces, as well as intersection-related accidents, highlighting the urgent need for targeted enforcement and behavioral interventions.",
+    "risk_factor_analysis": {
+      "primary_risks": "The top three risk factors contributing to the elevated accident risk are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Intersection Incidents'. These factors are operationally significant as they suggest a need for enhanced enforcement of traffic regulations and driver education programs.",
+      "contributing_conditions": "Environmental conditions, such as cloudy weather, further amplify the risk of accidents, indicating that weather-related awareness campaigns may be beneficial."
+    },
+    "policy_recommendations": [
+      {
+        "priority": 1,
+        "action": "Implement targeted enforcement of traffic regulations",
+        "target": "Unsafe Driving Violations",
+        "rationale": "Reducing unsafe driving behaviors is critical, as they are a primary risk driver; targeted enforcement can effectively lower violation rates.",
+        "timeline": "Short-term (1-3 months)"
+      },
+      {
+        "priority": 2,
+        "action": "Enhance public awareness campaigns on safe driving practices",
+        "target": "Dry Road Surface Incidents",
+        "rationale": "Educational initiatives can significantly reduce incidents on dry roads, as indicated by the SHAP analysis that highlights their contribution to accident risk.",
+        "timeline": "Mid-term (3-12 months)"
+      },
+      {
+        "priority": 3,
+        "action": "Conduct intersection safety audits and improvements",
+        "target": "Intersection Incidents",
+        "rationale": "Addressing the high frequency of intersection incidents through structural improvements can mitigate risks, as evidenced by the counterfactual analysis.",
+        "timeline": "Long-term (1+ year)"
+      }
+    ],
+    "counterfactual_insight": "To shift the district to a low-risk classification, it is essential to reduce the frequency of 'Dry Road Surface Incidents' by 12, 'Wet/Humid Road Surface Incidents' by 6, and 'Intersection Incidents' by 3. Implementing these changes can lead to a significant decrease in the overall risk index.",
+    "monitoring_kpis": [
+      "KPI 1: Reduce 'Dry Road Surface Incidents' by 20% within 6 months.",
+      "KPI 2: Decrease 'Unsafe Driving Violations' by 15% in 3 months.",
+      "KPI 3: Lower 'Intersection Incidents' by 10% within 12 months."
+    ],
+    "alert_justification": "The classification of 상남면 as a high-risk area is justified due to the elevated risk index and the presence of multiple contributing factors. Unlike over-warnings, the data-driven analysis indicates a genuine need for immediate intervention to prevent potential accidents.",
+    "_meta": {
+      "emd": "상남면",
+      "year": 2022,
+      "month": 8,
+      "risk_index": 137.97,
+      "alert_type": "High-Risk Warning",
+      "model_used": "gpt-4o-mini",
+      "generated_at": "2026-03-31 12:03:33"
+    }
+  },
+  {
+    "executive_summary": "The traffic accident risk index for 하남읍 stands at 113.50, indicating a high-risk environment for vehicular incidents. Key risk drivers include dry road surface incidents and unsafe driving violations, necessitating immediate intervention to mitigate these risks.",
+    "risk_factor_analysis": {
+      "primary_risks": "The top three risk factors contributing to the elevated accident rate are 'Dry Road Surface Incidents', 'Unsafe Driving Violations', and 'Clear Weather Incidents'. These factors suggest a critical need for enhanced enforcement of traffic regulations and public awareness campaigns focused on safe driving behaviors.",
+      "contributing_conditions": "The presence of campgrounds in the vicinity may increase traffic volume and associated risks, particularly during peak recreational periods."
+    },
+    "policy_recommendations": [
+      {
+        "priority": 1,
+        "action": "Implement targeted enforcement of traffic laws",
+        "target": "Unsafe Driving Violations",
+        "rationale": "The SHAP analysis indicates that unsafe driving significantly increases accident risk. Enhanced enforcement can deter such violations.",
+        "timeline": "Short-term (1-3 months)"
+      },
+      {
+        "priority": 2,
+        "action": "Launch a public awareness campaign on safe driving practices",
+        "target": "Dry Road Surface Incidents",
+        "rationale": "Given the high incidence of accidents on dry roads, educating drivers on safe driving behaviors can reduce these incidents.",
+        "timeline": "Mid-term (3-12 months)"
+      },
+      {
+        "priority": 3,
+        "action": "Improve road signage and visibility in high-risk areas",
+        "target": "Clear Weather Incidents",
+        "rationale": "Clear weather conditions are associated with a higher frequency of accidents; improving signage can help mitigate this risk.",
+        "timeline": "Long-term (1+ year)"
+      }
+    ],
+    "counterfactual_insight": "To transition 하남읍 to a low-risk classification, a reduction in 'Dry Road Surface Incidents' by 12 occurrences, 'Wet/Humid Road Surface Incidents' by 6 occurrences, and 'Intersection Incidents' by 3 occurrences is essential. These targeted reductions can significantly lower the risk index.",
+    "monitoring_kpis": [
+      "KPI 1: Reduce 'Dry Road Surface Incidents' by 20% in 6 months",
+      "KPI 2: Decrease 'Unsafe Driving Violations' by 15% in 6 months",
+      "KPI 3: Lower 'Intersection Incidents' by 10% in 12 months"
+    ],
+    "alert_justification": "The classification of 하남읍 as a high-risk district is justified by the elevated risk index and the prevalence of significant risk factors. This classification is based on empirical data rather than over-warning, highlighting the urgent need for targeted interventions.",
+    "_meta": {
+      "emd": "하남읍",
+      "year": 2020,
+      "month": 6,
+      "risk_index": 113.5,
+      "alert_type": "High-Risk Warning",
+      "model_used": "gpt-4o-mini",
+      "generated_at": "2026-03-31 12:03:44"
+    }
+  },
+  {
+    "executive_summary": "The traffic accident risk index for 삼랑진읍 stands at 106.37, categorizing it as a high-risk area. The primary drivers of this elevated risk include incidents on dry and wet road surfaces, as well as intersection-related accidents, necessitating immediate intervention to enhance road safety.",
+    "risk_factor_analysis": {
+      "primary_risks": "The top three risk factors contributing to the high accident rate are Dry Road Surface Incidents, Wet/Humid Road Surface Incidents, and Intersection Incidents. These factors indicate a pressing need for improved enforcement of safe driving practices and enhanced traffic management at critical junctions.",
+      "contributing_conditions": "The environmental conditions, particularly clear and humid weather, exacerbate the likelihood of accidents, suggesting that weather-related driving behavior needs to be addressed."
+    },
+    "policy_recommendations": [
+      {
+        "priority": 1,
+        "action": "Implement targeted enforcement of safe driving practices",
+        "target": "Unsafe Driving Violations",
+        "rationale": "Reducing Unsafe Driving Violations is crucial, as they significantly contribute to the risk index. Enhanced enforcement can mitigate the frequency of accidents, particularly on dry and wet roads.",
+        "timeline": "Short-term (1-3 months)"
+      },
+      {
+        "priority": 2,
+        "action": "Enhance traffic management at intersections",
+        "target": "Intersection Incidents",
+        "rationale": "Addressing Intersection Incidents through improved signage, traffic lights, and roundabouts can directly reduce the risk associated with these critical points, as indicated by the SHAP analysis.",
+        "timeline": "Mid-term (3-12 months)"
+      },
+      {
+        "priority": 3,
+        "action": "Launch a public awareness campaign on driving in varying weather conditions",
+        "target": "Clear Weather Incidents and Wet/Humid Road Surface Incidents",
+        "rationale": "Educating drivers about the risks associated with clear and humid weather can lead to safer driving behaviors, thereby reducing the frequency of related incidents.",
+        "timeline": "Short-term (1-3 months)"
+      }
+    ],
+    "counterfactual_insight": "To transition to a low-risk classification, a reduction in Dry Road Surface Incidents by 12 occurrences, Wet/Humid Road Surface Incidents by 6, and Intersection Incidents by 3 is essential. Implementing the recommended policies will address these specific areas and significantly lower the risk index.",
+    "monitoring_kpis": [
+      "KPI 1: Reduce Dry Road Surface Incidents by 20% within 6 months",
+      "KPI 2: Decrease Intersection Incidents by 15% within 12 months",
+      "KPI 3: Increase public awareness campaign reach to 70% of local drivers within 3 months"
+    ],
+    "alert_justification": "The classification of 삼랑진읍 as a high-risk district is justified due to its elevated risk index and the presence of multiple contributing factors. This classification is not an over-warning, as the data indicates a clear need for immediate action to prevent potential accidents.",
+    "_meta": {
+      "emd": "삼랑진읍",
+      "year": 2020,
+      "month": 6,
+      "risk_index": 106.37,
+      "alert_type": "High-Risk Warning",
+      "model_used": "gpt-4o-mini",
+      "generated_at": "2026-03-31 12:03:59"
+    }
+  }
+]
